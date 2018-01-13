@@ -1,6 +1,6 @@
 # Vue Forms
 
-> A Vue.js project
+> Example of a form with data binding using Vue.js.
 
 ## Build Setup
 
